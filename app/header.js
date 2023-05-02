@@ -13,5 +13,5 @@ export default function Header() {
                 <Link className="text-gray-200" href="/cart">Cart</Link>
             </header>
         </div>
-    )
+    );
 }

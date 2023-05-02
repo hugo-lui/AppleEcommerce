@@ -1,10 +1,10 @@
-import Link from "next/link"
-import Image from "next/image"
-import Phones from "../public/assets/FourPhones.JPG"
-import Watch from "../public/assets/WatchUltraHome.JPG"
-import iPad from "../public/assets/iPadHome.JPG"
-import Airpods from "../public/assets/AirpodsHome.JPG"
-import MacBook from "../public/assets/MacbookHome.JPG"
+import Link from "next/link";
+import Image from "next/image";
+import Phones from "../public/assets/FourPhones.JPG";
+import Watch from "../public/assets/WatchUltraHome.JPG";
+import iPad from "../public/assets/iPadHome.JPG";
+import Airpods from "../public/assets/AirpodsHome.JPG";
+import MacBook from "../public/assets/MacbookHome.JPG";
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
         <h2 className="pt-2 text-2xl">Pro. Beyond.</h2>
         <div className="p-4">
           <Link href="/iphone" className="text-blue-400 text-lg mr-4">Learn more &gt;</Link>
-          <Link href="/" className="text-blue-400 text-lg">Buy &gt;</Link>
+          <Link href="/shop/iphone-14-pro" className="text-blue-400 text-lg">Buy &gt;</Link>
         </div>
         <div className="block m-auto w-1/2"><Image src={Phones} alt="FourPhones"/></div>
       </div>
@@ -57,5 +57,5 @@ export default function Home() {
         </div>
       </div>
     </div>
-  )
+  );
 }
