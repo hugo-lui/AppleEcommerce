@@ -1,7 +1,5 @@
 {
-    "pictures": {
-        "first": "../../../public/assets/iPhone14ProFirst.jpg",
-        "second": "../../../public/assets/iPhone14ProSecond.jpg",
-        "third": "../../../public/assets/iPhone14ProThird.jpg"
-    }
+    "first": "/assets/iPhone14ProFirst.jpg",
+    "second": "/assets/iPhone14ProSecond.jpg",
+    "third": "/assets/iPhone14ProThird.jpg"
 }
