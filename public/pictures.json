@@ -1,0 +1,12 @@
+{
+    "iphone-14-pro": {
+        "first": "/assets/iPhone14ProFirst.jpg",
+        "second": "/assets/iPhone14ProSecond.jpg",
+        "third": "/assets/iPhone14ProThird.jpg"
+    },
+    "macbook-pro": {
+        "first": "/assets/MacBookProFirst.jpg",
+        "second": "/assets/MacBookProFirst.jpg",
+        "third": "/assets/MacBookProFirst.jpg"
+    }
+}

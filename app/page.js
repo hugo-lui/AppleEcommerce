@@ -33,7 +33,7 @@ export default function Home() {
           <h2 className="">Supercharged by M2 Pro.</h2>
           <div className="p-4">
             <Link href="/mac" className="text-blue-400 text-lg mr-4">Learn more &gt;</Link>
-            <Link href="/" className="text-blue-400 text-lg">Buy &gt;</Link>
+            <Link href="/shop/macbook-pro" className="text-blue-400 text-lg">Buy &gt;</Link>
           </div>
           <div className="block m-auto w-1/2"><Image src={MacBook} alt="MacBookHome"/></div>
         </div>
