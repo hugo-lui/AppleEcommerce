@@ -1,12 +1,21 @@
 {
+    "macbook-pro": {
+        "first": "/assets/MacBookProFirst.jpg"
+    },
     "iphone-14-pro": {
         "first": "/assets/iPhone14ProFirst.jpg",
         "second": "/assets/iPhone14ProSecond.jpg",
         "third": "/assets/iPhone14ProThird.jpg"
     },
-    "macbook-pro": {
-        "first": "/assets/MacBookProFirst.jpg",
-        "second": "/assets/MacBookProFirst.jpg",
-        "third": "/assets/MacBookProFirst.jpg"
+    "iphone-14": {
+        "first": "/assets/iPhone14first.jpg",
+        "second": "/assets/iPhone14Second.jpg",
+        "third": "/assets/iPhone14third.jpg"
+    },
+    "iphone-13": {
+
+    },
+    "iphone-se": {
+
     }
 }
