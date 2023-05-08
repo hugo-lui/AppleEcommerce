@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import Phones from "../public/assets/FourPhones.JPG";
+import FourPhones from "../public/assets/FourPhones.JPG";
 import Watch from "../public/assets/WatchUltraHome.JPG";
 import iPad from "../public/assets/iPadHome.JPG";
 import Airpods from "../public/assets/AirpodsHome.JPG";
@@ -16,7 +16,7 @@ export default function Home() {
           <Link href="/iphone" className="text-blue-400 text-lg mr-4">Learn more &gt;</Link>
           <Link href="/shop/iphone-14-pro" className="text-blue-400 text-lg">Buy &gt;</Link>
         </div>
-        <div className="block m-auto w-1/2"><Image src={Phones} alt="FourPhones"/></div>
+        <div className="block m-auto w-1/2"><Image src={FourPhones} alt="FourPhones"/></div>
       </div>
       <div className="grid grid-cols-2 text-center text-xl">
         <div className="m-2 bg-white text-black">
